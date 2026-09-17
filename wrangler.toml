@@ -1,0 +1,11 @@
+name = "proxy-bejei8383bnd"
+main = "_worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+ADMIN = "admin"
+UUID = "d3b7c9a2-1234-5678-9abc-def012345678"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "def3a433bac0498698551782e6b5e04e"
